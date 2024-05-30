@@ -20,13 +20,13 @@ import os
 API_URL = "https://api.x.com/2/"
 
 # Twitter app credentials
-CLIENT_ID = "ZmNkLXBkTlloX0JFaXVnNW0xclg6MTpjaQ"
-CLIENT_SECRET = "dPaJ-nYPm5dKkzIa0fUD3LPlzqzIyGfEwqW-0tyGDJsSIDzf2n"
-REDIRECT_URI = "https://web.telegram.org/k/#@mytwitmr_bot"  # Must match the one configured in your Twitter app settings
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REDIRECT_URI = ""  # Must match the one configured in your Twitter app settings
 SCOPE = "read:users"  # Adjust based on your application's required scope
 
 # Define your Telegram bot token and channel ID
-TELEGRAM_BOT_TOKEN = "7429258149:AAGI3JvmNkODEKG_SXdq8aBYISsstittQB4"
+TELEGRAM_BOT_TOKEN = ""
 CHANNEL_ID = "@mytwitmr_bot"
 
 # Set up Tweepy for Twitter API v2
